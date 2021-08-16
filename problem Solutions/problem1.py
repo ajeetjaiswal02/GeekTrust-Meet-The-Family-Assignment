@@ -1,6 +1,6 @@
 import sys
 sys.path.insert(0, "../")
-from familyTree import FamilyTree
+from geektrust import FamilyTree
 from family import Family
 from person import Person
 

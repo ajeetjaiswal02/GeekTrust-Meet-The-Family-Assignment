@@ -1,4 +1,5 @@
-# FamilyTree problem solution from geektrust platform. <a href="https://www.geektrust.in/coding-problem/backend/family"> link to problem</a>
+# FamilyTree problem solution from geektrust platform. 
+
 
 ## classes
 
@@ -14,5 +15,4 @@ relationships and more.
 <p> To run a prolems solution just run the script with python3. Ex. for problem1: 
 python3 problem1.py
 
-#### One person name in the tree  is "Lavnya" but in the problem is "Lavanya", I am using problem name "Lavanya"
 #### GitHub <a href="https://github.com/vkbinfo/geektrust-familyTree">link</a>
